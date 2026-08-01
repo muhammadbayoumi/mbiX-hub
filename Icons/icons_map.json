@@ -1,5 +1,5 @@
 {
-  "Version": "Aug2026",
+  "Version": "1Aug2026",
   "ForceRefresh": false,
   "PreloadAssets": [
     "Copy/",
@@ -9,7 +9,7 @@
     "EUROCODE/symbol.png"
   ],
   "Icons": [
-    { "ControlName": "mnuEgypt", "FileName": "EGYPT/EG.png" },
+    { "ControlName": "mnuEgypt", "FileName": "EGYPT/map_14464993.png" },
     {
       "ControlName": "btnSubscription",
       "FileName": "shield-search.png",
