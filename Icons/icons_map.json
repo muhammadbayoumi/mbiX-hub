@@ -1,5 +1,5 @@
 {
-  "Version": "1Aug2026",
+  "Version": "Aug2026",
   "ForceRefresh": false,
   "PreloadAssets": [
     "Copy/",
@@ -10,6 +10,7 @@
   ],
   "Icons": [
     { "ControlName": "mnuEgypt", "FileName": "EGYPT/map_14464993.png" },
+    { "ControlName": "mnuSaudiArabia", "FileName": "GCC/world_16396791.png" },
     {
       "ControlName": "btnSubscription",
       "FileName": "shield-search.png",
