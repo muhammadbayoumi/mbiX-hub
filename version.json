@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1.50",
-  "url": "https://github.com/muhammadbayoumi/mbi-addin/releases/download/v1.0.0.50/1.0.0.50.zip",
-  "notes": "â€¢ Added new features.\nâ€¢ fixed bugs.",
-  "sha256": "2f5b652b2d93e2bbc9278bdc8a960f7869629be27bfbe2fe8b0eda19c1d4f1fa",
+  "version": "1.0.1.71",
+  "url": "https://github.com/muhammadbayoumi/mbi-addin/releases/download/v1.0.1.71/1.0.1.71.zip",
+  "notes": "• Test release - checking that the update reaches a machine that already has the add-in installed.\n• Includes this cycle's fixes: data sources whose header sits below a title block, a sync that imports no valid rows no longer reported as success, and clearer messages when a server returns a web page.",
+  "sha256": "22eee467c3932259c2b66f4f0408877466238fe6d453ab14436d03b6e38ab44a",
   "isRequired": false
 }
