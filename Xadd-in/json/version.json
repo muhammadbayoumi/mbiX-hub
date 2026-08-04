@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1.71",
-  "url": "https://github.com/muhammadbayoumi/mbi-addin/releases/download/v1.0.1.71/1.0.1.71.zip",
-  "notes": "- Test release - checking that the update reaches a machine that already has the add-in installed.\n- Includes this cycle's fixes: data sources whose header sits below a title block, a sync that imports no valid rows is no longer reported as success, and clearer messages when a server returns a web page.",
-  "sha256": "22eee467c3932259c2b66f4f0408877466238fe6d453ab14436d03b6e38ab44a",
+  "version": "1.0.1.72",
+  "url": "https://github.com/muhammadbayoumi/mbiX-hub/releases/download/v1.0.1.72/1.0.1.72.zip",
+  "notes": "- Internal change only: the add-in now fetches its updates, icons and plan list from the new mbiX hub.\n- No change to how anything works. If you notice icons or the update check behaving differently, please report it.",
+  "sha256": "f2188e9bcb74062a7bb32e5be2263b8d6aae0cb6c91b5f7b84ce5b95595775c1",
   "isRequired": false
 }
