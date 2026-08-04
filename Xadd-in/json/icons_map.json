@@ -1,8 +1,9 @@
 {
-  "Version": "4Aug2026-restructure",
+  "Version": "4Aug2026-b",
   "ForceRefresh": false,
   "PreloadAssets": [
-    "_library/Copy/",
+    "_library/Copy/copy (copied).png",
+    "_library/Copy/copy.png",
     "_library/EUROCODE/symbol.png",
     "_library/File/file.png",
     "_library/File/table.png",
@@ -62,7 +63,9 @@
         "Limited Access": "splitbtnData/cloud-bolt.png",
         "Synchronized": "splitbtnData/cloud-check.png",
         "Ready": "splitbtnData/cloud.png",
-        "Awaiting Sync": "splitbtnData/cloud-exclamation.png"
+        "Awaiting Sync": "splitbtnData/cloud-exclamation.png",
+        "Deferred": "splitbtnData/cloud-pause.png",
+        "Up to Date": "splitbtnData/cloud (f).png"
       }
     },
     {
