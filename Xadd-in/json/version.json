@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1.73",
-  "url": "https://github.com/muhammadbayoumi/mbiX-hub/releases/download/v1.0.1.73/1.0.1.73.zip",
-  "notes": "- The Egypt and Gulf ribbon tabs are hidden for now.\n- Two data-button states that were showing the wrong icon now have their own: \"Up to Date\" and \"Deferred\".\n- Icon preloading accepts a whole folder, not only single files.",
-  "sha256": "5a5561473a08d033642f3221305ec0791bce038335fa7d5b14668e2a3d4b4932",
+  "version": "1.0.1.74",
+  "url": "https://github.com/muhammadbayoumi/mbiX-hub/releases/download/v1.0.1.74/1.0.1.74.zip",
+  "notes": "- First release built by the automated pipeline. No functional changes.",
+  "sha256": "efe492b71628a0dde0b7face8ed92e67cfc1597ff1c82e5d3fa4a9cce2d1379b",
   "isRequired": false
 }
