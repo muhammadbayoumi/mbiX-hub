@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1.72",
-  "url": "https://github.com/muhammadbayoumi/mbiX-hub/releases/download/v1.0.1.72/1.0.1.72.zip",
-  "notes": "- Internal change only: the add-in now fetches its updates, icons and plan list from the new mbiX hub.\n- No change to how anything works. If you notice icons or the update check behaving differently, please report it.",
-  "sha256": "f2188e9bcb74062a7bb32e5be2263b8d6aae0cb6c91b5f7b84ce5b95595775c1",
+  "version": "1.0.1.73",
+  "url": "https://github.com/muhammadbayoumi/mbiX-hub/releases/download/v1.0.1.73/1.0.1.73.zip",
+  "notes": "- The Egypt and Gulf ribbon tabs are hidden for now.\n- Two data-button states that were showing the wrong icon now have their own: \"Up to Date\" and \"Deferred\".\n- Icon preloading accepts a whole folder, not only single files.",
+  "sha256": "5a5561473a08d033642f3221305ec0791bce038335fa7d5b14668e2a3d4b4932",
   "isRequired": false
 }
