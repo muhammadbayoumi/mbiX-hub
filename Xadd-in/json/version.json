@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1.75",
-  "url": "https://github.com/muhammadbayoumi/mbiX-hub/releases/download/v1.0.1.75/1.0.1.75.zip",
-  "notes": "- The Schema Reference guide was showing an old configuration format the add-in no longer reads. Its\n  examples now match what actually works.\n- The screen shown when an update is mandatory has been rebuilt. It now tells you which version you\n  have alongside the one on offer, and installs directly instead of sending you to the ribbon. You\n  will not see this screen in normal use.",
-  "sha256": "89a409350f76c33e8db2d42abbb714980b62c48fc017fb02d84a26e6d6ca3239",
+  "version": "1.0.1.76",
+  "url": "https://github.com/muhammadbayoumi/mbiX-hub/releases/download/v1.0.1.76/1.0.1.76.zip",
+  "notes": "- Nothing changes in day-to-day use. This release adds a way to build category menus directly from your\n  data, so a menu can no longer fall behind the table it lists.\n- Menus that download documents: an item whose action was never configured is now shown greyed out\n  rather than quietly behaving as a download.",
+  "sha256": "756be0b3a2977f20bd1bad6995d61b6851f91284e32c17ba305326e3483f0b50",
   "isRequired": false
 }
