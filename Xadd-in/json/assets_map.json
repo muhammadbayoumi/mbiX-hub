@@ -1,0 +1,27 @@
+{
+  "_comment": [
+    "Manifest for the managed DATA assets — files the add-in fetches at runtime instead of shipping",
+    "them inside the installer. Mirrors icons_map.json in role, but keeps its own version line so a",
+    "data fix never forces an icon re-check.",
+    "",
+    "Publish this file to {githubRaw}/Xadd-in/json/assets_map.json and the files themselves under",
+    "{githubRaw}/Xadd-in/assets/<FileName>.",
+    "",
+    "Version  — bump on ANY change below. The client compares this one string and skips everything",
+    "           when it matches, so a no-change startup costs a single small request.",
+    "Key      — the stable name a consumer asks for. NEVER put a version in it: the whole point is",
+    "           that countriesV4 -> countriesV5 is an edit to FileName here, touching no code.",
+    "FileName — path under both the assets root on disk and the remote base."
+  ],
+
+  "Version": "2026-08-06",
+
+  "Assets": [
+    {
+      "Key": "countries",
+      "FileName": "countries/countriesV4.json",
+      "ForceRefresh": false,
+      "Description": "Country reference dataset — ISO codes, names, currencies, dialling codes."
+    }
+  ]
+}
