@@ -1,5 +1,5 @@
 {
-  "Version": "4Aug2026-b",
+  "Version": "7Aug2026-b",
   "ForceRefresh": false,
   "PreloadAssets": [
     "_library/Copy/copy (copied).png",
@@ -182,6 +182,37 @@
       "ControlName": "button2",
       "FileName": "button2/crown.png",
       "ForceRefresh": false
+    },
+    {
+      "ControlName": "mnuNotifications",
+      "FileName": "_library/info.png",
+      "ForceRefresh": false,
+      "StateIcons": {
+        "idle": "",
+        "pending": "_library/alert-square (Filled).png",
+        "error": "_library/alert-triangle (Filled).png"
+      }
+    },
+    {
+      "_comment": [
+        "Keys here are STATE NAMES, not labels. AssetCommand's captions carry a count -",
+        "'3 Assets Updated' - so there is no fixed label to key on. It calls",
+        "RefreshIconForControl(control, 'btnSyncAssets', state) and this table decides the file.",
+        "Same mechanism mnuNotifications uses, for the same reason."
+      ],
+      "ControlName": "btnSyncAssets",
+      "FileName": "_library/box.png",
+      "ForceRefresh": false,
+      "StateIcons": {
+        "locked": "btnSubscription/shield-exclamation.png",
+        "unprovisioned": "_library/download.png",
+        "ready": "",
+        "checking": "_library/cloud-search__root.png",
+        "updated": "_library/cloud-online.png",
+        "uptodate": "",
+        "offline": "_library/cloud-offline.png",
+        "failed": "_library/file-alert.png"
+      }
     }
   ]
 }
