@@ -1,5 +1,5 @@
 {
-  "Version": "7Aug2026-b",
+  "Version": "11Aug2026-a",
   "ForceRefresh": false,
   "PreloadAssets": [
     "_library/Copy/copy (copied).png",
@@ -65,7 +65,8 @@
         "Ready": "splitbtnData/cloud.png",
         "Awaiting Sync": "splitbtnData/cloud-exclamation.png",
         "Deferred": "splitbtnData/cloud-pause.png",
-        "Up to Date": "splitbtnData/cloud (f).png"
+        "Current Data": "splitbtnData/cloud (f).png",
+        "Awaiting License": "splitbtnData/cloud-lock.png"
       }
     },
     {
@@ -103,12 +104,18 @@
       "ForceRefresh": false
     },
     {
+      "ControlName": "mnuFuel",
+      "FileName": "_library/gas-station.png",
+      "ForceRefresh": false
+    },
+    {
       "ControlName": "btnSyncIcons",
       "FileName": "btnSyncIcons/icons.png",
       "ForceRefresh": false,
       "StateIcons": {
         "Synchronize Icons": "",
         "Icons Locked": "",
+        "firstrun": "",
         "Checking Icons...": "",
         "Downloading Icons...": "btnSyncIcons/sort-descending-shapes.png",
         "Offline Icons": "",
@@ -205,6 +212,7 @@
       "ForceRefresh": false,
       "StateIcons": {
         "locked": "btnSubscription/shield-exclamation.png",
+        "initializing": "",
         "unprovisioned": "_library/download.png",
         "ready": "",
         "checking": "_library/cloud-search__root.png",
