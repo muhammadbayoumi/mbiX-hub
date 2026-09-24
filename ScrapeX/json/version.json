@@ -1,15 +1,15 @@
 {
   "product": "scrapex-engine",
-  "version": "0.4.18",
-  "tag": "engine-v0.4.18",
-  "published_at": "2026-09-24T18:31:15Z",
-  "release_url": "https://github.com/muhammadbayoumi/mbiX-hub/releases/tag/engine-v0.4.18",
+  "version": "0.4.19",
+  "tag": "engine-v0.4.19",
+  "published_at": "2026-09-24T19:01:09Z",
+  "release_url": "https://github.com/muhammadbayoumi/mbiX-hub/releases/tag/engine-v0.4.19",
   "minimum_extension_version": "0.3.3",
   "protocol_version": 1,
   "installer": {
     "name": "scrapex-engine.exe",
-    "url": "https://github.com/muhammadbayoumi/mbiX-hub/releases/download/engine-v0.4.18/scrapex-engine.exe",
-    "bytes": 34274560,
-    "sha256": "2fbbf8be5af2d4db238fd30ef36649f77850e8186389cab9ea45d700dc4cc513"
+    "url": "https://github.com/muhammadbayoumi/mbiX-hub/releases/download/engine-v0.4.19/scrapex-engine.exe",
+    "bytes": 34275037,
+    "sha256": "7962c97874a15b6d3ab17db72502090522869197ac5bf9f8e39af361d1d24b7a"
   }
 }
